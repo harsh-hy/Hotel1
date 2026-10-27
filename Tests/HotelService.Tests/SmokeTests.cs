@@ -1,0 +1,1 @@
+using NUnit.Framework; namespace HotelService_Tests; [TestFixture] public class SmokeTests { [Test] public void TestProjectLoads(){ Assert.That(true, Is.True); } }
